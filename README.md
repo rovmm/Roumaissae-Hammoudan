@@ -1,7 +1,7 @@
 # Roumaissae-Hammoudan
  Étudiante en 3ᵉ année de Génie Informatique 
  Passionée par le developpement web
- Actuellement en Apprentissage de Java et C et Base de donneés avancés
+ Actuellement en Apprentissage de Java et Base de donneés avancés
  
  # Compétences
  **Langage : Python , C , Java , c++ , JavaScript
